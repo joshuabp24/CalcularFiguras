@@ -1,0 +1,6 @@
+D:\Calculo\Calculo\bin\Debug\Calculo.exe.config
+D:\Calculo\Calculo\bin\Debug\Calculo.exe
+D:\Calculo\Calculo\bin\Debug\Calculo.pdb
+D:\Calculo\Calculo\obj\Debug\Calculo.csprojAssemblyReference.cache
+D:\Calculo\Calculo\obj\Debug\Calculo.exe
+D:\Calculo\Calculo\obj\Debug\Calculo.pdb
